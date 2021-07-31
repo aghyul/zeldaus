@@ -6,6 +6,8 @@ Thanks for visiting my Github profile!
 Some quick things about me:
 
 <li>
-  👨‍🎓 I Just Write Code :V
+👨‍🎓 I Just Write Code :V
+</li>
 ☕ I Drink a lot of coffee
-<li/>
+
+
