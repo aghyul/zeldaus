@@ -8,6 +8,8 @@ Some quick things about me:
 <li>
 👨‍🎓 I Just Write Code :V
 </li>
+<li>
 ☕ I Drink a lot of coffee
+</li>
 
 
