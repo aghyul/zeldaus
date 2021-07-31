@@ -5,5 +5,5 @@ Thanks for visiting my Github profile!
 
 Some quick things about me:
 
-#👨‍🎓 I Just Write Code :V
-#☕ I Drink a lot of coffee
+<li>👨‍🎓 I Just Write Code :V<li/>
+<li>☕ I Drink a lot of coffee<li/>
